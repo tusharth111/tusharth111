@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tusharth111
-- 👀 I’m interested in python
-- 🌱 I’m currently learning python
+- 👀 I’m interested in Programming 
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me tusharth111@gmail.com
 <!---
