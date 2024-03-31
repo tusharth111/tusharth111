@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tushar</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Java** , **Web Development**
+
 
 - 📫 How to reach me **tusharth111@gmail.com**
 
